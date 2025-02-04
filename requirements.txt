@@ -1,0 +1,3 @@
+# all requirements needed by the project
+pytest-playwright
+pytest-json-report
